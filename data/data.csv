@@ -1,4 +1,5 @@
 ﻿DateRep,CountryExp,NewConfCases,NewDeaths,GeoId,Gaul1Nuts1,EU
+3/16/20,Afghanistan,6,0,AF,,Non-EU/EEA
 3/15/20,Afghanistan,3,0,AF,,Non-EU/EEA
 3/11/20,Afghanistan,3,0,AF,,Non-EU/EEA
 3/8/20,Afghanistan,3,0,AF,,Non-EU/EEA
@@ -65,6 +66,7 @@
 1/2/20,Afghanistan,0,0,AF,,Non-EU/EEA
 1/1/20,Afghanistan,0,0,AF,,Non-EU/EEA
 12/31/19,Afghanistan,0,0,AF,,Non-EU/EEA
+3/16/20,Albania,4,0,AL,,EU Candidate
 3/15/20,Albania,5,0,AL,,EU Candidate
 3/14/20,Albania,10,0,AL,,EU Candidate
 3/13/20,Albania,12,0,AL,,EU Candidate
@@ -72,6 +74,7 @@
 3/11/20,Albania,4,0,AL,,EU Candidate
 3/10/20,Albania,4,0,AL,,EU Candidate
 3/9/20,Albania,2,0,AL,,EU Candidate
+3/16/20,Algeria,11,2,DZ,,Non-EU/EEA
 3/15/20,Algeria,11,0,DZ,,Non-EU/EEA
 3/14/20,Algeria,2,1,DZ,,Non-EU/EEA
 3/13/20,Algeria,4,1,DZ,,Non-EU/EEA
@@ -143,9 +146,11 @@
 1/2/20,Algeria,0,0,DZ,,Non-EU/EEA
 1/1/20,Algeria,0,0,DZ,,Non-EU/EEA
 12/31/19,Algeria,0,0,DZ,,Non-EU/EEA
+3/16/20,Andorra,3,0,AD,,Non-EU/EEA
 3/14/20,Andorra,1,0,AD,,Non-EU/EEA
 3/3/20,Andorra,1,0,AD,,Non-EU/EEA
 3/15/20,Antigua and Barbuda,1,0,AG,,Non-EU/EEA
+3/16/20,Argentina,11,0,AR,,Non-EU/EEA
 3/15/20,Argentina,11,0,AR,,Non-EU/EEA
 3/14/20,Argentina,3,1,AR,,Non-EU/EEA
 3/13/20,Argentina,12,0,AR,,Non-EU/EEA
@@ -155,6 +160,7 @@
 3/7/20,Argentina,6,0,AR,,Non-EU/EEA
 3/6/20,Argentina,1,0,AR,,Non-EU/EEA
 3/4/20,Argentina,1,0,AR,,Non-EU/EEA
+3/16/20,Armenia,10,0,AM,,Non-EU/EEA
 3/15/20,Armenia,7,0,AM,,Non-EU/EEA
 3/14/20,Armenia,7,0,AM,,Non-EU/EEA
 3/13/20,Armenia,2,0,AM,,Non-EU/EEA
@@ -222,6 +228,7 @@
 1/2/20,Armenia,0,0,AM,,Non-EU/EEA
 1/1/20,Armenia,0,0,AM,,Non-EU/EEA
 12/31/19,Armenia,0,0,AM,,Non-EU/EEA
+3/16/20,Australia,49,2,AU,,Non-EU/EEA
 3/15/20,Australia,52,0,AU,,Non-EU/EEA
 3/14/20,Australia,41,0,AU,,Non-EU/EEA
 3/13/20,Australia,30,0,AU,,Non-EU/EEA
@@ -298,6 +305,7 @@
 1/2/20,Australia,0,0,AU,,Non-EU/EEA
 1/1/20,Australia,0,0,AU,,Non-EU/EEA
 12/31/19,Australia,0,0,AU,,Non-EU/EEA
+3/16/20,Austria,205,0,AT,,EU
 3/15/20,Austria,151,0,AT,,EU
 3/14/20,Austria,143,0,AT,,EU
 3/13/20,Austria,115,1,AT,,EU
@@ -374,6 +382,7 @@
 1/2/20,Austria,0,0,AT,,EU
 1/1/20,Austria,0,0,AT,,EU
 12/31/19,Austria,0,0,AT,,EU
+3/16/20,Azerbaijan,0,0,AZ,,Non-EU/EEA
 3/15/20,Azerbaijan,6,0,AZ,,Non-EU/EEA
 3/13/20,Azerbaijan,0,0,AZ,,Non-EU/EEA
 3/12/20,Azerbaijan,2,0,AZ,,Non-EU/EEA
@@ -443,6 +452,8 @@
 1/2/20,Azerbaijan,0,0,AZ,,Non-EU/EEA
 1/1/20,Azerbaijan,0,0,AZ,,Non-EU/EEA
 12/31/19,Azerbaijan,0,0,AZ,,Non-EU/EEA
+3/16/20,Bahamas,1,0,BS,,Non-EU/EEA
+3/16/20,Bahrain,3,0,BH,,Non-EU/EEA
 3/15/20,Bahrain,1,0,BH,,Non-EU/EEA
 3/14/20,Bahrain,48,0,BH,,Non-EU/EEA
 3/13/20,Bahrain,0,0,BH,,Non-EU/EEA
@@ -520,6 +531,7 @@
 12/31/19,Bahrain,0,0,BH,,Non-EU/EEA
 3/15/20,Bangladesh,0,0,BD,,Non-EU/EEA
 3/9/20,Bangladesh,3,0,BD,,Non-EU/EEA
+3/16/20,Belarus,6,0,BY,,Non-EU/EEA
 3/13/20,Belarus,9,0,BY,,Non-EU/EEA
 3/12/20,Belarus,3,0,BY,,Non-EU/EEA
 3/11/20,Belarus,3,0,BY,,Non-EU/EEA
@@ -588,6 +600,7 @@
 1/2/20,Belarus,0,0,BY,,Non-EU/EEA
 1/1/20,Belarus,0,0,BY,,Non-EU/EEA
 12/31/19,Belarus,0,0,BY,,Non-EU/EEA
+3/16/20,Belgium,197,0,BE,,EU
 3/15/20,Belgium,130,1,BE,,EU
 3/14/20,Belgium,160,0,BE,,EU
 3/13/20,Belgium,85,0,BE,,EU
@@ -671,9 +684,11 @@
 3/14/20,Bolivia,7,0,BO,,Non-EU/EEA
 3/13/20,Bolivia,1,0,BO,,Non-EU/EEA
 3/12/20,Bolivia,2,0,BO,,Non-EU/EEA
+3/16/20,Bosnia and Herzegovina,15,0,BA,,Potential EU Candidate
 3/13/20,Bosnia and Herzegovina,0,0,BA,,Potential EU Candidate
 3/12/20,Bosnia and Herzegovina,1,0,BA,,Potential EU Candidate
 3/6/20,Bosnia and Herzegovina,2,0,BA,,Potential EU Candidate
+3/16/20,Brazil,79,0,BR,,Non-EU/EEA
 3/15/20,Brazil,23,0,BR,,Non-EU/EEA
 3/14/20,Brazil,21,0,BR,,Non-EU/EEA
 3/13/20,Brazil,25,0,BR,,Non-EU/EEA
@@ -747,20 +762,24 @@
 1/2/20,Brazil,0,0,BR,,Non-EU/EEA
 1/1/20,Brazil,0,0,BR,,Non-EU/EEA
 12/31/19,Brazil,0,0,BR,,Non-EU/EEA
+3/16/20,Brunei Darussalam,10,0,BN,,Non-EU/EEA
 3/15/20,Brunei Darussalam,3,0,BN,,Non-EU/EEA
 3/14/20,Brunei Darussalam,12,0,BN,,Non-EU/EEA
 3/13/20,Brunei Darussalam,14,0,BN,,Non-EU/EEA
 3/12/20,Brunei Darussalam,10,0,BN,,Non-EU/EEA
 3/10/20,Brunei Darussalam,1,0,BN,,Non-EU/EEA
+3/16/20,Bulgaria,10,0,BG,,EU
 3/15/20,Bulgaria,10,1,BG,,EU
 3/14/20,Bulgaria,8,0,BG,,EU
 3/13/20,Bulgaria,16,0,BG,,EU
 3/12/20,Bulgaria,3,1,BG,,EU
 3/9/20,Bulgaria,2,0,BG,,EU
 3/8/20,Bulgaria,2,0,BG,,EU
+3/16/20,Burkina Faso,0,0,BF,,Non-EU/EEA
 3/15/20,Burkina Faso,1,0,BF,,Non-EU/EEA
 3/12/20,Burkina Faso,0,0,BF,,Non-EU/EEA
 3/11/20,Burkina Faso,2,0,BF,,Non-EU/EEA
+3/16/20,Cambodia,5,0,KH,,Non-EU/EEA
 3/15/20,Cambodia,2,0,KH,,Non-EU/EEA
 3/13/20,Cambodia,2,0,KH,,Non-EU/EEA
 3/12/20,Cambodia,1,0,KH,,Non-EU/EEA
@@ -828,9 +847,11 @@
 1/2/20,Cambodia,0,0,KH,,Non-EU/EEA
 1/1/20,Cambodia,0,0,KH,,Non-EU/EEA
 12/31/19,Cambodia,0,0,KH,,Non-EU/EEA
+3/16/20,Cameroon,1,0,CM,,Non-EU/EEA
 3/15/20,Cameroon,1,0,CM,,Non-EU/EEA
 3/9/20,Cameroon,1,0,CM,,Non-EU/EEA
 3/7/20,Cameroon,1,0,CM,,Non-EU/EEA
+3/16/20,Canada,60,0,CA,,Non-EU/EEA
 3/15/20,Canada,68,0,CA,,Non-EU/EEA
 3/14/20,Canada,38,0,CA,,Non-EU/EEA
 3/13/20,Canada,35,0,CA,,Non-EU/EEA
@@ -971,6 +992,8 @@
 1/2/20,Cases on an international conveyance Japan,0,0,JPG11668,JPG11668,0
 1/1/20,Cases on an international conveyance Japan,0,0,JPG11668,JPG11668,0
 12/31/19,Cases on an international conveyance Japan,0,0,JPG11668,JPG11668,0
+3/16/20,Central African Republic,1,0,CF,,Non-EU/EEA
+3/16/20,Chile,14,0,CL,,Non-EU/EEA
 3/15/20,Chile,18,0,CL,,Non-EU/EEA
 3/14/20,Chile,10,0,CL,,Non-EU/EEA
 3/13/20,Chile,10,0,CL,,Non-EU/EEA
@@ -982,6 +1005,7 @@
 3/6/20,Chile,1,0,CL,,Non-EU/EEA
 3/5/20,Chile,2,0,CL,,Non-EU/EEA
 3/4/20,Chile,1,0,CL,,Non-EU/EEA
+3/16/20,China,25,14,CN,,Non-EU/EEA
 3/15/20,China,22,9,CN,,Non-EU/EEA
 3/14/20,China,19,15,CN,,Non-EU/EEA
 3/13/20,China,22,7,CN,,Non-EU/EEA
@@ -1058,11 +1082,14 @@
 1/2/20,China,0,0,CN,,Non-EU/EEA
 1/1/20,China,0,0,CN,,Non-EU/EEA
 12/31/19,China,27,0,CN,,Non-EU/EEA
+3/16/20,Colombia,11,0,CO,,Non-EU/EEA
 3/15/20,Colombia,18,0,CO,,Non-EU/EEA
 3/14/20,Colombia,7,0,CO,,Non-EU/EEA
 3/12/20,Colombia,6,0,CO,,Non-EU/EEA
 3/10/20,Colombia,2,0,CO,,Non-EU/EEA
 3/7/20,Colombia,1,0,CO,,Non-EU/EEA
+3/16/20,Congo,1,,CG,,Non-EU/EEA
+3/16/20,Costa Rica,8,0,CR,,Non-EU/EEA
 3/15/20,Costa Rica,1,0,CR,,Non-EU/EEA
 3/14/20,Costa Rica,3,0,CR,,Non-EU/EEA
 3/13/20,Costa Rica,1,0,CR,,Non-EU/EEA
@@ -1071,8 +1098,10 @@
 3/10/20,Costa Rica,4,0,CR,,Non-EU/EEA
 3/9/20,Costa Rica,4,0,CR,,Non-EU/EEA
 3/7/20,Costa Rica,1,0,CR,,Non-EU/EEA
+3/16/20,Cote dIvoire,0,0,CI,,Non-EU/EEA
 3/15/20,Cote dIvoire,3,0,CI,,Non-EU/EEA
 3/12/20,Cote dIvoire,1,0,CI,,Non-EU/EEA
+3/16/20,Croatia,11,0,HR,,EU
 3/15/20,Croatia,6,0,HR,,EU
 3/14/20,Croatia,6,0,HR,,EU
 3/13/20,Croatia,9,0,HR,,EU
@@ -1149,10 +1178,12 @@
 3/15/20,Cuba,0,0,CU,,Non-EU/EEA
 3/14/20,Cuba,1,0,CU,,Non-EU/EEA
 3/12/20,Cuba,3,0,CU,,Non-EU/EEA
+3/16/20,Cyprus,9,0,CY,,EU
 3/15/20,Cyprus,7,0,CY,,EU
 3/14/20,Cyprus,8,0,CY,,EU
 3/12/20,Cyprus,4,0,CY,,EU
 3/10/20,Cyprus,2,0,CY,,EU
+3/16/20,Czech Republic,84,0,CZ,,EU
 3/15/20,Czech Republic,64,0,CZ,,EU
 3/14/20,Czech Republic,34,0,CZ,,EU
 3/13/20,Czech Republic,22,0,CZ,,EU
@@ -1229,9 +1260,11 @@
 1/2/20,Czech Republic,0,0,CZ,,EU
 1/1/20,Czech Republic,0,0,CZ,,EU
 12/31/19,Czech Republic,0,0,CZ,,EU
+3/16/20,Democratic Republic of the Congo,0,0,CD,,Non-EU/EEA
 3/15/20,Democratic Republic of the Congo,0,0,CD,,Non-EU/EEA
 3/14/20,Democratic Republic of the Congo,1,0,CD,,Non-EU/EEA
 3/11/20,Democratic Republic of the Congo,1,0,CD,,Non-EU/EEA
+3/16/20,Denmark,48,1,DK,,EU
 3/15/20,Denmark,23,0,DK,,EU
 3/14/20,Denmark,128,0,DK,,EU
 3/13/20,Denmark,160,0,DK,,EU
@@ -1308,6 +1341,7 @@
 1/2/20,Denmark,0,0,DK,,EU
 1/1/20,Denmark,0,0,DK,,EU
 12/31/19,Denmark,0,0,DK,,EU
+3/16/20,Dominican Republic,0,0,DO,,Non-EU/EEA
 3/15/20,Dominican Republic,0,0,DO,,Non-EU/EEA
 3/14/20,Dominican Republic,6,0,DO,,Non-EU/EEA
 3/10/20,Dominican Republic,3,0,DO,,Non-EU/EEA
@@ -1375,6 +1409,7 @@
 1/2/20,Dominican Republic,0,0,DO,,Non-EU/EEA
 1/1/20,Dominican Republic,0,0,DO,,Non-EU/EEA
 12/31/19,Dominican Republic,0,0,DO,,Non-EU/EEA
+3/16/20,Ecuador,9,0,EC,,Non-EU/EEA
 3/15/20,Ecuador,5,1,EC,,Non-EU/EEA
 3/14/20,Ecuador,6,1,EC,,Non-EU/EEA
 3/11/20,Ecuador,2,0,EC,,Non-EU/EEA
@@ -1446,6 +1481,7 @@
 1/2/20,Ecuador,0,0,EC,,Non-EU/EEA
 1/1/20,Ecuador,0,0,EC,,Non-EU/EEA
 12/31/19,Ecuador,0,0,EC,,Non-EU/EEA
+3/16/20,Egypt,17,0,EG,,Non-EU/EEA
 3/15/20,Egypt,0,0,EG,,Non-EU/EEA
 3/14/20,Egypt,13,0,EG,,Non-EU/EEA
 3/13/20,Egypt,20,1,EG,,Non-EU/EEA
@@ -1518,7 +1554,9 @@
 1/2/20,Egypt,0,0,EG,,Non-EU/EEA
 1/1/20,Egypt,0,0,EG,,Non-EU/EEA
 12/31/19,Egypt,0,0,EG,,Non-EU/EEA
-3/15/20,Equatorial Guinea,1,,GQ,,Non-EU/EEA
+3/16/20,Equatorial Guinea,0,0,GQ,,Non-EU/EEA
+3/15/20,Equatorial Guinea,1,0,GQ,,Non-EU/EEA
+3/16/20,Estonia,56,0,EE,,EU
 3/15/20,Estonia,36,0,EE,,EU
 3/14/20,Estonia,52,0,EE,,EU
 3/13/20,Estonia,11,0,EE,,EU
@@ -1590,8 +1628,10 @@
 1/2/20,Estonia,0,0,EE,,EU
 1/1/20,Estonia,0,0,EE,,EU
 12/31/19,Estonia,0,0,EE,,EU
+3/16/20,Ethiopia,3,0,ET,,Non-EU/EEA
 3/15/20,Ethiopia,0,0,ET,,Non-EU/EEA
 3/14/20,Ethiopia,1,0,ET,,Non-EU/EEA
+3/16/20,Finland,57,0,FI,,EU
 3/15/20,Finland,55,0,FI,,EU
 3/14/20,Finland,0,0,FI,,EU
 3/13/20,Finland,96,0,FI,,EU
@@ -1664,6 +1704,7 @@
 1/2/20,Finland,0,0,FI,,EU
 1/1/20,Finland,0,0,FI,,EU
 12/31/19,Finland,0,0,FI,,EU
+3/16/20,France,924,36,FR,,EU
 3/15/20,France,838,12,FR,,EU
 3/14/20,France,785,18,FR,,EU
 3/13/20,France,595,13,FR,,EU
@@ -1740,8 +1781,10 @@
 1/2/20,France,0,0,FR,,EU
 1/1/20,France,0,0,FR,,EU
 12/31/19,France,0,0,FR,,EU
+3/16/20,Gabon,0,0,GA,,Non-EU/EEA
 3/15/20,Gabon,0,0,GA,,Non-EU/EEA
 3/13/20,Gabon,1,0,GA,,Non-EU/EEA
+3/16/20,Georgia,0,0,GE,,Non-EU/EEA
 3/15/20,Georgia,0,0,GE,,Non-EU/EEA
 3/14/20,Georgia,5,0,GE,,Non-EU/EEA
 3/13/20,Georgia,1,0,GE,,Non-EU/EEA
@@ -1815,6 +1858,7 @@
 1/2/20,Georgia,0,0,GE,,Non-EU/EEA
 1/1/20,Georgia,0,0,GE,,Non-EU/EEA
 12/31/19,Georgia,0,0,GE,,Non-EU/EEA
+3/16/20,Germany,1043,4,DE,,EU
 3/15/20,Germany,733,3,DE,,EU
 3/14/20,Germany,693,0,DE,,EU
 3/13/20,Germany,802,2,DE,,EU
@@ -1891,8 +1935,10 @@
 1/2/20,Germany,0,0,DE,,EU
 1/1/20,Germany,0,0,DE,,EU
 12/31/19,Germany,0,0,DE,,EU
+3/16/20,Ghana,0,0,GH,,Non-EU/EEA
 3/15/20,Ghana,0,0,GH,,Non-EU/EEA
 3/13/20,Ghana,2,0,GH,,Non-EU/EEA
+3/16/20,Greece,103,1,EL,,EU
 3/15/20,Greece,38,2,EL,,EU
 3/14/20,Greece,57,0,EL,,EU
 3/13/20,Greece,34,0,EL,,EU
@@ -1967,13 +2013,18 @@
 1/2/20,Greece,0,0,EL,,EU
 1/1/20,Greece,0,0,EL,,EU
 12/31/19,Greece,0,0,EL,,EU
+3/16/20,Guatemala,0,1,GT,GTG164821,Non-EU/EEA
 3/15/20,Guatemala,1,0,GT,GTG164821,Non-EU/EEA
 3/15/20,Guinea,0,0,GN,,Non-EU/EEA
 3/14/20,Guinea,1,0,GN,,Non-EU/EEA
+3/16/20,Guyana,3,0,GY,,Non-EU/EEA
 3/13/20,Guyana,1,1,GY,,Non-EU/EEA
+3/16/20,Holy See,0,0,VA,,Non-EU/EEA
 3/7/20,Holy See,1,0,VA,,Non-EU/EEA
+3/16/20,Honduras,3,0,HN,,Non-EU/EEA
 3/14/20,Honduras,1,0,HN,,Non-EU/EEA
 3/12/20,Honduras,2,0,HN,,Non-EU/EEA
+3/16/20,Hungary,8,1,HU,,EU
 3/15/20,Hungary,6,0,HU,,EU
 3/14/20,Hungary,9,0,HU,,EU
 3/13/20,Hungary,3,0,HU,,EU
@@ -1984,6 +2035,7 @@
 3/8/20,Hungary,3,0,HU,,EU
 3/7/20,Hungary,2,0,HU,,EU
 3/5/20,Hungary,2,0,HU,,EU
+3/16/20,Iceland,40,0,IS,,EEA
 3/15/20,Iceland,21,0,IS,,EEA
 3/14/20,Iceland,0,0,IS,,EEA
 3/13/20,Iceland,32,0,IS,,EEA
@@ -2060,6 +2112,7 @@
 1/2/20,Iceland,0,0,IS,,EEA
 1/1/20,Iceland,0,0,IS,,EEA
 12/31/19,Iceland,0,0,IS,,EEA
+3/16/20,India,3,0,IN,,Non-EU/EEA
 3/15/20,India,7,0,IN,,Non-EU/EEA
 3/14/20,India,8,1,IN,,Non-EU/EEA
 3/13/20,India,2,1,IN,,Non-EU/EEA
@@ -2135,7 +2188,8 @@
 1/2/20,India,0,0,IN,,Non-EU/EEA
 1/1/20,India,0,0,IN,,Non-EU/EEA
 12/31/19,India,0,0,IN,,Non-EU/EEA
-3/15/20,Indonesia,27,-3,ID,,Non-EU/EEA
+3/16/20,Indonesia,21,1,ID,,Non-EU/EEA
+3/15/20,Indonesia,27,0,ID,,Non-EU/EEA
 3/14/20,Indonesia,35,3,ID,,Non-EU/EEA
 3/12/20,Indonesia,15,1,ID,,Non-EU/EEA
 3/11/20,Indonesia,13,0,ID,,Non-EU/EEA
@@ -2204,6 +2258,7 @@
 1/2/20,Indonesia,0,0,ID,,Non-EU/EEA
 1/1/20,Indonesia,0,0,ID,,Non-EU/EEA
 12/31/19,Indonesia,0,0,ID,,Non-EU/EEA
+3/16/20,Iran,1209,113,IR,,Non-EU/EEA
 3/15/20,Iran,1365,97,IR,,Non-EU/EEA
 3/14/20,Iran,1289,85,IR,,Non-EU/EEA
 3/13/20,Iran,1075,75,IR,,Non-EU/EEA
@@ -2280,6 +2335,7 @@
 1/2/20,Iran,0,0,IR,,Non-EU/EEA
 1/1/20,Iran,0,0,IR,,Non-EU/EEA
 12/31/19,Iran,0,0,IR,,Non-EU/EEA
+3/16/20,Iraq,39,0,IQ,,Non-EU/EEA
 3/15/20,Iraq,0,0,IQ,,Non-EU/EEA
 3/14/20,Iraq,11,1,IQ,,Non-EU/EEA
 3/13/20,Iraq,4,0,IQ,,Non-EU/EEA
@@ -2354,6 +2410,7 @@
 1/2/20,Iraq,0,0,IQ,,Non-EU/EEA
 1/1/20,Iraq,0,0,IQ,,Non-EU/EEA
 12/31/19,Iraq,0,0,IQ,,Non-EU/EEA
+3/16/20,Ireland,40,0,IE,IE0,EU
 3/15/20,Ireland,38,1,IE,IE0,EU
 3/14/20,Ireland,21,0,IE,IE0,EU
 3/13/20,Ireland,27,0,IE,IE0,EU
@@ -2428,6 +2485,7 @@
 1/2/20,Ireland,0,0,IE,IE0,EU
 1/1/20,Ireland,0,0,IE,IE0,EU
 12/31/19,Ireland,0,0,IE,IE0,EU
+3/16/20,Israel,72,0,IL,,Non-EU/EEA
 3/15/20,Israel,62,0,IL,,Non-EU/EEA
 3/14/20,Israel,20,0,IL,,Non-EU/EEA
 3/13/20,Israel,14,0,IL,,Non-EU/EEA
@@ -2501,6 +2559,7 @@
 1/2/20,Israel,0,0,IL,,Non-EU/EEA
 1/1/20,Israel,0,0,IL,,Non-EU/EEA
 12/31/19,Israel,0,0,IL,,Non-EU/EEA
+3/16/20,Italy,6230,370,IT,,EU
 3/15/20,Italy,90,173,IT,,EU
 3/14/20,Italy,2547,252,IT,,EU
 3/13/20,Italy,2651,189,IT,,EU
@@ -2577,9 +2636,11 @@
 1/2/20,Italy,0,0,IT,,EU
 1/1/20,Italy,0,0,IT,,EU
 12/31/19,Italy,0,0,IT,,EU
+3/16/20,Jamaica,2,0,JM,,Non-EU/EEA
 3/14/20,Jamaica,2,0,JM,,Non-EU/EEA
 3/13/20,Jamaica,4,0,JM,,Non-EU/EEA
 3/12/20,Jamaica,2,0,JM,,Non-EU/EEA
+3/16/20,Japan,34,2,JP,,Non-EU/EEA
 3/15/20,Japan,43,1,JP,,Non-EU/EEA
 3/14/20,Japan,62,2,JP,,Non-EU/EEA
 3/13/20,Japan,56,4,JP,,Non-EU/EEA
@@ -2656,12 +2717,17 @@
 1/2/20,Japan,0,0,JP,,Non-EU/EEA
 1/1/20,Japan,0,0,JP,,Non-EU/EEA
 12/31/19,Japan,0,0,JP,,Non-EU/EEA
+3/16/20,Jordan,14,0,JO,,Non-EU/EEA
 3/15/20,Jordan,0,0,JO,,Non-EU/EEA
 3/8/20,Jordan,0,0,JO,,Non-EU/EEA
 3/3/20,Jordan,1,0,JO,,Non-EU/EEA
-3/15/20,Kazakhstan,6,,KZ,,Non-EU/EEA
+3/16/20,Kazakhstan,3,0,KZ,,Non-EU/EEA
+3/15/20,Kazakhstan,6,0,KZ,,Non-EU/EEA
+3/16/20,Kenya,2,0,KE,,Non-EU/EEA
 3/15/20,Kenya,0,0,KE,,Non-EU/EEA
 3/14/20,Kenya,1,0,KE,,Non-EU/EEA
+3/16/20,Kosovo,2,0,XK,,Potential EU Candidate
+3/16/20,Kuwait,8,0,KW,,Non-EU/EEA
 3/15/20,Kuwait,4,0,KW,,Non-EU/EEA
 3/14/20,Kuwait,20,0,KW,,Non-EU/EEA
 3/13/20,Kuwait,8,0,KW,,Non-EU/EEA
@@ -2735,6 +2801,7 @@
 1/2/20,Kuwait,0,0,KW,,Non-EU/EEA
 1/1/20,Kuwait,0,0,KW,,Non-EU/EEA
 12/31/19,Kuwait,0,0,KW,,Non-EU/EEA
+3/16/20,Latvia,5,0,LV,,EU
 3/15/20,Latvia,7,0,LV,,EU
 3/14/20,Latvia,3,0,LV,,EU
 3/13/20,Latvia,6,0,LV,,EU
@@ -2744,6 +2811,7 @@
 3/9/20,Latvia,1,0,LV,,EU
 3/8/20,Latvia,1,0,LV,,EU
 3/3/20,Latvia,1,0,LV,,EU
+3/16/20,Lebanon,6,0,LB,,Non-EU/EEA
 3/15/20,Lebanon,27,1,LB,,Non-EU/EEA
 3/13/20,Lebanon,5,0,LB,,Non-EU/EEA
 3/12/20,Lebanon,20,1,LB,,Non-EU/EEA
@@ -2816,11 +2884,13 @@
 1/2/20,Lebanon,0,0,LB,,Non-EU/EEA
 1/1/20,Lebanon,0,0,LB,,Non-EU/EEA
 12/31/19,Lebanon,0,0,LB,,Non-EU/EEA
+3/16/20,Liechtenstein,3,0,LI,LI0,EEA
 3/15/20,Liechtenstein,0,0,LI,LI0,EEA
 3/14/20,Liechtenstein,0,0,LI,LI0,EEA
 3/13/20,Liechtenstein,1,0,LI,LI0,EEA
 3/12/20,Liechtenstein,2,0,LI,LI0,EEA
 3/5/20,Liechtenstein,1,0,LI,LI0,EEA
+3/16/20,Lithuania,5,0,LT,,EU
 3/15/20,Lithuania,3,0,LT,,EU
 3/14/20,Lithuania,3,0,LT,,EU
 3/12/20,Lithuania,0,0,LT,,EU
@@ -2888,6 +2958,7 @@
 1/2/20,Lithuania,0,0,LT,,EU
 1/1/20,Lithuania,0,0,LT,,EU
 12/31/19,Lithuania,0,0,LT,,EU
+3/16/20,Luxembourg,39,0,LU,LU0,EU
 3/14/20,Luxembourg,12,1,LU,LU0,EU
 3/13/20,Luxembourg,19,0,LU,LU0,EU
 3/12/20,Luxembourg,0,0,LU,LU0,EU
@@ -2957,6 +3028,7 @@
 1/2/20,Luxembourg,0,0,LU,LU0,EU
 1/1/20,Luxembourg,0,0,LU,LU0,EU
 12/31/19,Luxembourg,0,0,LU,LU0,EU
+3/16/20,Malaysia,190,0,MY,,Non-EU/EEA
 3/15/20,Malaysia,41,0,MY,,Non-EU/EEA
 3/14/20,Malaysia,39,0,MY,,Non-EU/EEA
 3/13/20,Malaysia,9,0,MY,,Non-EU/EEA
@@ -3032,19 +3104,23 @@
 1/2/20,Malaysia,0,0,MY,,Non-EU/EEA
 1/1/20,Malaysia,0,0,MY,,Non-EU/EEA
 12/31/19,Malaysia,0,0,MY,,Non-EU/EEA
+3/16/20,Maldives,4,0,MV,,Non-EU/EEA
 3/15/20,Maldives,0,0,MV,,Non-EU/EEA
 3/14/20,Maldives,1,0,MV,,Non-EU/EEA
 3/12/20,Maldives,2,0,MV,,Non-EU/EEA
 3/11/20,Maldives,2,0,MV,,Non-EU/EEA
 3/9/20,Maldives,2,0,MV,,Non-EU/EEA
 3/8/20,Maldives,2,0,MV,,Non-EU/EEA
+3/16/20,Malta,3,0,MT,MT0,EU
 3/15/20,Malta,6,0,MT,MT0,EU
 3/14/20,Malta,3,0,MT,MT0,EU
 3/13/20,Malta,3,0,MT,MT0,EU
 3/12/20,Malta,2,0,MT,MT0,EU
 3/10/20,Malta,1,0,MT,MT0,EU
 3/8/20,Malta,3,0,MT,MT0,EU
-3/15/20,Mauritania,1,,MR,,Non-EU/EEA
+3/16/20,Mauritania,0,0,MR,,Non-EU/EEA
+3/15/20,Mauritania,1,0,MR,,Non-EU/EEA
+3/16/20,Mexico,12,0,MX,MXG12042,Non-EU/EEA
 3/15/20,Mexico,15,0,MX,MXG12042,Non-EU/EEA
 3/14/20,Mexico,10,0,MX,MXG12042,Non-EU/EEA
 3/13/20,Mexico,5,0,MX,MXG12042,Non-EU/EEA
@@ -3113,12 +3189,14 @@
 1/2/20,Mexico,0,0,MX,MXG12042,Non-EU/EEA
 1/1/20,Mexico,0,0,MX,MXG12042,Non-EU/EEA
 12/31/19,Mexico,0,0,MX,MXG12042,Non-EU/EEA
+3/16/20,Moldova,3,0,MD,,Non-EU/EEA
 3/15/20,Moldova,12,0,MD,,Non-EU/EEA
 3/14/20,Moldova,2,0,MD,,Non-EU/EEA
 3/13/20,Moldova,2,0,MD,,Non-EU/EEA
 3/12/20,Moldova,1,0,MD,,Non-EU/EEA
 3/11/20,Moldova,2,0,MD,,Non-EU/EEA
 3/8/20,Moldova,1,0,MD,,Non-EU/EEA
+3/16/20,Monaco,4,0,MC,MC,Non-EU/EEA
 3/15/20,Monaco,2,0,MC,MC,Non-EU/EEA
 3/2/20,Monaco,0,0,MC,MC,Non-EU/EEA
 3/1/20,Monaco,0,0,MC,MC,Non-EU/EEA
@@ -3185,13 +3263,15 @@
 12/31/19,Monaco,0,0,MC,MC,Non-EU/EEA
 3/15/20,Mongolia,0,0,MN,,Non-EU/EEA
 3/10/20,Mongolia,1,0,MN,,Non-EU/EEA
+3/16/20,Morocco,10,0,MA,,Non-EU/EEA
 3/15/20,Morocco,11,0,MA,,Non-EU/EEA
 3/14/20,Morocco,1,0,MA,,Non-EU/EEA
 3/13/20,Morocco,1,0,MA,,Non-EU/EEA
 3/12/20,Morocco,3,1,MA,,Non-EU/EEA
 3/6/20,Morocco,1,0,MA,,Non-EU/EEA
 3/3/20,Morocco,1,0,MA,,Non-EU/EEA
-3/15/20,Namibia,2,,NA,,Non-EU/EEA
+3/16/20,Namibia,0,0,NA,,Non-EU/EEA
+3/15/20,Namibia,2,0,NA,,Non-EU/EEA
 3/15/20,Nepal,0,0,NP,,Non-EU/EEA
 3/2/20,Nepal,0,0,NP,,Non-EU/EEA
 3/1/20,Nepal,0,0,NP,,Non-EU/EEA
@@ -3256,6 +3336,7 @@
 1/2/20,Nepal,0,0,NP,,Non-EU/EEA
 1/1/20,Nepal,0,0,NP,,Non-EU/EEA
 12/31/19,Nepal,0,0,NP,,Non-EU/EEA
+3/16/20,Netherlands,176,8,NL,,EU
 3/15/20,Netherlands,155,7,NL,,EU
 3/14/20,Netherlands,190,0,NL,,EU
 3/13/20,Netherlands,111,0,NL,,EU
@@ -3401,6 +3482,7 @@
 1/2/20,New Zealand,0,0,NZ,,Non-EU/EEA
 1/1/20,New Zealand,0,0,NZ,,Non-EU/EEA
 12/31/19,New Zealand,0,0,NZ,,Non-EU/EEA
+3/16/20,Nigeria,0,0,NG,,Non-EU/EEA
 3/15/20,Nigeria,0,0,NG,,Non-EU/EEA
 3/10/20,Nigeria,1,0,NG,,Non-EU/EEA
 3/2/20,Nigeria,0,0,NG,,Non-EU/EEA
@@ -3466,6 +3548,7 @@
 1/2/20,Nigeria,0,0,NG,,Non-EU/EEA
 1/1/20,Nigeria,0,0,NG,,Non-EU/EEA
 12/31/19,Nigeria,0,0,NG,,Non-EU/EEA
+3/16/20,North Macedonia,0,0,MK,,EU Candidate
 3/14/20,North Macedonia,4,0,MK,,EU Candidate
 3/13/20,North Macedonia,2,0,MK,,EU Candidate
 3/11/20,North Macedonia,4,0,MK,,EU Candidate
@@ -3533,6 +3616,7 @@
 1/2/20,North Macedonia,0,0,MK,,EU Candidate
 1/1/20,North Macedonia,0,0,MK,,EU Candidate
 12/31/19,North Macedonia,0,0,MK,,EU Candidate
+3/16/20,Norway,170,0,NO,,EEA
 3/15/20,Norway,286,0,NO,,EEA
 3/14/20,Norway,0,0,NO,,EEA
 3/13/20,Norway,132,1,NO,,EEA
@@ -3609,6 +3693,7 @@
 1/2/20,Norway,0,0,NO,,EEA
 1/1/20,Norway,0,0,NO,,EEA
 12/31/19,Norway,0,0,NO,,EEA
+3/16/20,Oman,2,0,OM,,Non-EU/EEA
 3/15/20,Oman,0,0,OM,,Non-EU/EEA
 3/14/20,Oman,2,0,OM,,Non-EU/EEA
 3/11/20,Oman,0,0,OM,,Non-EU/EEA
@@ -3679,6 +3764,7 @@
 1/2/20,Oman,0,0,OM,,Non-EU/EEA
 1/1/20,Oman,0,0,OM,,Non-EU/EEA
 12/31/19,Oman,0,0,OM,,Non-EU/EEA
+3/16/20,Pakistan,1,0,PK,,Non-EU/EEA
 3/15/20,Pakistan,9,0,PK,,Non-EU/EEA
 3/14/20,Pakistan,0,0,PK,,Non-EU/EEA
 3/13/20,Pakistan,1,0,PK,,Non-EU/EEA
@@ -3750,6 +3836,7 @@
 1/2/20,Pakistan,0,0,PK,,Non-EU/EEA
 1/1/20,Pakistan,0,0,PK,,Non-EU/EEA
 12/31/19,Pakistan,0,0,PK,,Non-EU/EEA
+3/16/20,Palestine,0,0,PS,,Non-EU/EEA
 3/15/20,Palestine,3,0,PS,,Non-EU/EEA
 3/14/20,Palestine,5,0,PS,,Non-EU/EEA
 3/12/20,Palestine,1,0,PS,,Non-EU/EEA
@@ -3758,16 +3845,19 @@
 3/8/20,Palestine,3,0,PS,,Non-EU/EEA
 3/7/20,Palestine,9,0,PS,,Non-EU/EEA
 3/6/20,Palestine,7,0,PS,,Non-EU/EEA
+3/16/20,Panama,0,0,PA,,Non-EU/EEA
 3/15/20,Panama,7,0,PA,,Non-EU/EEA
 3/14/20,Panama,9,0,PA,,Non-EU/EEA
 3/13/20,Panama,13,0,PA,,Non-EU/EEA
 3/12/20,Panama,7,0,PA,,Non-EU/EEA
 3/11/20,Panama,6,1,PA,,Non-EU/EEA
 3/10/20,Panama,1,0,PA,,Non-EU/EEA
+3/16/20,Paraguay,1,0,PY,,Non-EU/EEA
 3/14/20,Paraguay,1,0,PY,,Non-EU/EEA
 3/13/20,Paraguay,1,0,PY,,Non-EU/EEA
 3/11/20,Paraguay,4,0,PY,,Non-EU/EEA
 3/8/20,Paraguay,1,0,PY,,Non-EU/EEA
+3/16/20,Peru,28,0,PE,,Non-EU/EEA
 3/15/20,Peru,5,0,PE,,Non-EU/EEA
 3/14/20,Peru,16,0,PE,,Non-EU/EEA
 3/13/20,Peru,5,0,PE,,Non-EU/EEA
@@ -3776,6 +3866,7 @@
 3/10/20,Peru,2,0,PE,,Non-EU/EEA
 3/9/20,Peru,6,0,PE,,Non-EU/EEA
 3/7/20,Peru,1,0,PE,,Non-EU/EEA
+3/16/20,Philippines,29,6,PH,,Non-EU/EEA
 3/15/20,Philippines,47,0,PH,,Non-EU/EEA
 3/14/20,Philippines,12,4,PH,,Non-EU/EEA
 3/13/20,Philippines,3,0,PH,,Non-EU/EEA
@@ -3848,6 +3939,7 @@
 1/2/20,Philippines,0,0,PH,,Non-EU/EEA
 1/1/20,Philippines,0,0,PH,,Non-EU/EEA
 12/31/19,Philippines,0,0,PH,,Non-EU/EEA
+3/16/20,Poland,21,0,PL,,EU
 3/15/20,Poland,36,1,PL,,EU
 3/14/20,Poland,19,1,PL,,EU
 3/13/20,Poland,18,1,PL,,EU
@@ -3858,6 +3950,7 @@
 3/8/20,Poland,1,0,PL,,EU
 3/7/20,Poland,4,0,PL,,EU
 3/4/20,Poland,1,0,PL,,EU
+3/16/20,Portugal,76,0,PT,,EU
 3/15/20,Portugal,57,0,PT,,EU
 3/14/20,Portugal,34,0,PT,,EU
 3/13/20,Portugal,19,0,PT,,EU
@@ -3871,6 +3964,7 @@
 3/5/20,Portugal,1,0,PT,,EU
 3/4/20,Portugal,2,0,PT,,EU
 3/3/20,Portugal,2,0,PT,,EU
+3/16/20,Qatar,64,0,QA,,Non-EU/EEA
 3/15/20,Qatar,17,0,QA,,Non-EU/EEA
 3/14/20,Qatar,58,0,QA,,Non-EU/EEA
 3/12/20,Qatar,238,0,QA,,Non-EU/EEA
@@ -3943,6 +4037,7 @@
 1/2/20,Qatar,0,0,QA,,Non-EU/EEA
 1/1/20,Qatar,0,0,QA,,Non-EU/EEA
 12/31/19,Qatar,0,0,QA,,Non-EU/EEA
+3/16/20,Romania,26,0,RO,,EU
 3/15/20,Romania,24,0,RO,,EU
 3/14/20,Romania,25,0,RO,,EU
 3/13/20,Romania,19,0,RO,,EU
@@ -4017,6 +4112,7 @@
 1/2/20,Romania,0,0,RO,,EU
 1/1/20,Romania,0,0,RO,,EU
 12/31/19,Romania,0,0,RO,,EU
+3/16/20,Russia,4,0,RU,,Non-EU/EEA
 3/15/20,Russia,14,0,RU,,Non-EU/EEA
 3/14/20,Russia,15,0,RU,,Non-EU/EEA
 3/13/20,Russia,5,0,RU,,Non-EU/EEA
@@ -4088,9 +4184,12 @@
 1/2/20,Russia,0,0,RU,,Non-EU/EEA
 1/1/20,Russia,0,0,RU,,Non-EU/EEA
 12/31/19,Russia,0,0,RU,,Non-EU/EEA
-3/15/20,Rwanda,1,,RW,,Non-EU/EEA
+3/16/20,Rwanda,4,0,RW,,Non-EU/EEA
+3/15/20,Rwanda,1,0,RW,,Non-EU/EEA
+3/16/20,Saint Lucia,0,0,LC,,Non-EU/EEA
 3/15/20,Saint Lucia,2,0,LC,,Non-EU/EEA
 3/13/20,Saint Vincent and the Grenadines,1,0,VC,,Non-EU/EEA
+3/16/20,San Marino,6,2,SM,SM,Non-EU/EEA
 3/15/20,San Marino,19,0,SM,SM,Non-EU/EEA
 3/14/20,San Marino,6,0,SM,SM,Non-EU/EEA
 3/13/20,San Marino,1,2,SM,SM,Non-EU/EEA
@@ -4166,6 +4265,7 @@
 1/2/20,San Marino,0,0,SM,SM,Non-EU/EEA
 1/1/20,San Marino,0,0,SM,SM,Non-EU/EEA
 12/31/19,San Marino,0,0,SM,SM,Non-EU/EEA
+3/16/20,Saudi Arabia,32,0,SA,,Non-EU/EEA
 3/15/20,Saudi Arabia,0,0,SA,,Non-EU/EEA
 3/14/20,Saudi Arabia,24,0,SA,,Non-EU/EEA
 3/13/20,Saudi Arabia,17,0,SA,,Non-EU/EEA
@@ -4176,19 +4276,23 @@
 3/8/20,Saudi Arabia,2,0,SA,,Non-EU/EEA
 3/6/20,Saudi Arabia,4,0,SA,,Non-EU/EEA
 3/3/20,Saudi Arabia,1,0,SA,,Non-EU/EEA
+3/16/20,Senegal,5,0,SN,,Non-EU/EEA
 3/15/20,Senegal,2,0,SN,,Non-EU/EEA
 3/14/20,Senegal,13,0,SN,,Non-EU/EEA
 3/13/20,Senegal,2,0,SN,,Non-EU/EEA
 3/6/20,Senegal,1,0,SN,,Non-EU/EEA
 3/5/20,Senegal,2,0,SN,,Non-EU/EEA
 3/3/20,Senegal,1,0,SN,,Non-EU/EEA
+3/16/20,Serbia,9,0,RS,,EU Candidate
 3/15/20,Serbia,5,0,RS,,EU Candidate
 3/14/20,Serbia,17,0,RS,,EU Candidate
 3/13/20,Serbia,6,0,RS,,EU Candidate
 3/12/20,Serbia,13,0,RS,,EU Candidate
 3/11/20,Serbia,4,0,RS,,EU Candidate
 3/7/20,Serbia,1,0,RS,,EU Candidate
-3/15/20,Seychelles,2,,SC,,Non-EU/EEA
+3/16/20,Seychelles,1,0,SC,,Non-EU/EEA
+3/15/20,Seychelles,2,0,SC,,Non-EU/EEA
+3/16/20,Singapore,12,0,SG,,Non-EU/EEA
 3/15/20,Singapore,14,0,SG,,Non-EU/EEA
 3/14/20,Singapore,13,0,SG,,Non-EU/EEA
 3/13/20,Singapore,9,0,SG,,Non-EU/EEA
@@ -4265,6 +4369,7 @@
 1/2/20,Singapore,0,0,SG,,Non-EU/EEA
 1/1/20,Singapore,0,0,SG,,Non-EU/EEA
 12/31/19,Singapore,0,0,SG,,Non-EU/EEA
+3/16/20,Slovakia,17,0,SK,,EU
 3/15/20,Slovakia,14,0,SK,,EU
 3/14/20,Slovakia,9,0,SK,,EU
 3/13/20,Slovakia,11,0,SK,,EU
@@ -4273,6 +4378,7 @@
 3/9/20,Slovakia,2,0,SK,,EU
 3/8/20,Slovakia,2,0,SK,,EU
 3/7/20,Slovakia,1,0,SK,,EU
+3/16/20,Slovenia,38,0,SI,,EU
 3/15/20,Slovenia,40,0,SI,,EU
 3/14/20,Slovenia,45,0,SI,,EU
 3/13/20,Slovenia,39,0,SI,,EU
@@ -4283,6 +4389,7 @@
 3/7/20,Slovenia,3,0,SI,,EU
 3/6/20,Slovenia,5,0,SI,,EU
 3/5/20,Slovenia,1,0,SI,,EU
+3/16/20,South Africa,27,0,ZA,,Non-EU/EEA
 3/15/20,South Africa,0,0,ZA,,Non-EU/EEA
 3/14/20,South Africa,7,0,ZA,,Non-EU/EEA
 3/13/20,South Africa,4,0,ZA,,Non-EU/EEA
@@ -4291,6 +4398,7 @@
 3/9/20,South Africa,1,0,ZA,,Non-EU/EEA
 3/8/20,South Africa,1,0,ZA,,Non-EU/EEA
 3/6/20,South Africa,1,0,ZA,,Non-EU/EEA
+3/16/20,South Korea,74,0,KR,,Non-EU/EEA
 3/15/20,South Korea,76,3,KR,,Non-EU/EEA
 3/14/20,South Korea,107,5,KR,,Non-EU/EEA
 3/13/20,South Korea,110,1,KR,,Non-EU/EEA
@@ -4367,6 +4475,7 @@
 1/2/20,South Korea,0,0,KR,,Non-EU/EEA
 1/1/20,South Korea,0,0,KR,,Non-EU/EEA
 12/31/19,South Korea,0,0,KR,,Non-EU/EEA
+3/16/20,Spain,2000,152,ES,,EU
 3/15/20,Spain,1522,15,ES,,EU
 3/14/20,Spain,1227,37,ES,,EU
 3/13/20,Spain,864,37,ES,,EU
@@ -4443,6 +4552,7 @@
 1/2/20,Spain,0,0,ES,,EU
 1/1/20,Spain,0,0,ES,,EU
 12/31/19,Spain,0,0,ES,,EU
+3/16/20,Sri Lanka,8,0,LK,,Non-EU/EEA
 3/15/20,Sri Lanka,5,0,LK,,Non-EU/EEA
 3/14/20,Sri Lanka,3,0,LK,,Non-EU/EEA
 3/13/20,Sri Lanka,1,0,LK,,Non-EU/EEA
@@ -4510,10 +4620,13 @@
 1/2/20,Sri Lanka,0,0,LK,,Non-EU/EEA
 1/1/20,Sri Lanka,0,0,LK,,Non-EU/EEA
 12/31/19,Sri Lanka,0,0,LK,,Non-EU/EEA
+3/16/20,Sudan,0,0,SD,,Non-EU/EEA
 3/15/20,Sudan,0,1,SD,,Non-EU/EEA
 3/14/20,Sudan,1,0,SD,,Non-EU/EEA
 3/15/20,Suriname,1,0,SR,,Non-EU/EEA
-3/15/20,Swaziland,1,,SZ,,Non-EU/EEA
+3/16/20,Swaziland,0,0,SZ,,Non-EU/EEA
+3/15/20,Swaziland,1,0,SZ,,Non-EU/EEA
+3/16/20,Sweden,108,2,SE,,EU
 3/15/20,Sweden,149,0,SE,,EU
 3/14/20,Sweden,155,0,SE,,EU
 3/13/20,Sweden,158,0,SE,,EU
@@ -4590,6 +4703,7 @@
 1/2/20,Sweden,0,0,SE,,EU
 1/1/20,Sweden,0,0,SE,,EU
 12/31/19,Sweden,0,0,SE,,EU
+3/16/20,Switzerland,841,2,CH,,Non-EU/EEA
 3/15/20,Switzerland,238,4,CH,,Non-EU/EEA
 3/14/20,switzerland,267,3,CH,,Non-EU/EEA
 3/13/20,Switzerland,212,0,CH,,Non-EU/EEA
@@ -4666,6 +4780,7 @@
 1/2/20,Switzerland,0,0,CH,,Non-EU/EEA
 1/1/20,Switzerland,0,0,CH,,Non-EU/EEA
 12/31/19,Switzerland,0,0,CH,,Non-EU/EEA
+3/16/20,Taiwan,0,0,TW,CNG1925,Non-EU/EEA
 3/15/20,Taiwan,6,0,TW,CNG1925,Non-EU/EEA
 3/14/20,Taiwan,4,0,TW,CNG1925,Non-EU/EEA
 3/13/20,Taiwan,1,0,TW,CNG1925,Non-EU/EEA
@@ -4740,6 +4855,7 @@
 1/2/20,Taiwan,0,0,TW,CNG1925,Non-EU/EEA
 1/1/20,Taiwan,0,0,TW,CNG1925,Non-EU/EEA
 12/31/19,Taiwan,0,0,TW,CNG1925,Non-EU/EEA
+3/16/20,Thailand,32,0,TH,,Non-EU/EEA
 3/15/20,Thailand,0,0,TH,,Non-EU/EEA
 3/14/20,Thailand,12,0,TH,,Non-EU/EEA
 3/12/20,Thailand,11,0,TH,,Non-EU/EEA
@@ -4809,11 +4925,14 @@
 1/2/20,Thailand,0,0,TH,,Non-EU/EEA
 1/1/20,Thailand,0,0,TH,,Non-EU/EEA
 12/31/19,Thailand,0,0,TH,,Non-EU/EEA
+3/16/20,Togo,0,0,TG,,Non-EU/EEA
 3/15/20,Togo,0,0,TG,,Non-EU/EEA
 3/7/20,Togo,1,0,TG,,Non-EU/EEA
+3/16/20,Trinidad and Tobago,2,0,TT,,Non-EU/EEA
 3/15/20,Trinidad and Tobago,0,0,TT,,Non-EU/EEA
 3/14/20,Trinidad and Tobago,1,0,TT,,Non-EU/EEA
 3/13/20,Trinidad and Tobago,1,0,TT,,Non-EU/EEA
+3/16/20,Tunisia,2,0,TN,,Non-EU/EEA
 3/15/20,Tunisia,0,0,TN,,Non-EU/EEA
 3/14/20,Tunisia,3,0,TN,,Non-EU/EEA
 3/13/20,Tunisia,6,0,TN,,Non-EU/EEA
@@ -4821,10 +4940,13 @@
 3/11/20,Tunisia,3,0,TN,,Non-EU/EEA
 3/10/20,Tunisia,1,0,TN,,Non-EU/EEA
 3/3/20,Tunisia,1,0,TN,,Non-EU/EEA
+3/16/20,Turkey,16,0,TR,,EU Candidate
 3/13/20,Turkey,1,0,TR,,EU Candidate
 3/12/20,Turkey,1,0,TR,,EU Candidate
+3/16/20,Ukraine,0,0,UA,,Non-EU/EEA
 3/13/20,Ukraine,2,0,UA,,Non-EU/EEA
 3/4/20,Ukraine,1,0,UA,,Non-EU/EEA
+3/16/20,United Arab Emirates,1,0,AE,,Non-EU/EEA
 3/15/20,United Arab Emirates,0,0,AE,,Non-EU/EEA
 3/13/20,United Arab Emirates,11,0,AE,,Non-EU/EEA
 3/11/20,United Arab Emirates,15,0,AE,,Non-EU/EEA
@@ -4895,6 +5017,7 @@
 1/2/20,United Arab Emirates,0,0,AE,,Non-EU/EEA
 1/1/20,United Arab Emirates,0,0,AE,,Non-EU/EEA
 12/31/19,United Arab Emirates,0,0,AE,,Non-EU/EEA
+3/16/20,United Kingdom,251,14,UK,,Former EU
 3/15/20,United Kingdom,433,11,UK,,Former EU
 3/14/20,United Kingdom,117,0,UK,,Former EU
 3/13/20,United Kingdom,134,4,UK,,Former EU
@@ -4971,6 +5094,7 @@
 1/2/20,United Kingdom,0,0,UK,,Former EU
 1/1/20,United Kingdom,0,0,UK,,Former EU
 12/31/19,United Kingdom,0,0,UK,,Former EU
+3/16/20,United States of America,823,12,US,,Non-EU/EEA
 3/15/20,United States of America,777,10,US,,Non-EU/EEA
 3/14/20,United States of America,511,7,US,,Non-EU/EEA
 3/13/20,United States of America,351,10,US,,Non-EU/EEA
@@ -5047,8 +5171,12 @@
 1/2/20,United States of America,0,0,US,,Non-EU/EEA
 1/1/20,United States of America,0,0,US,,Non-EU/EEA
 12/31/19,United States of America,0,0,US,,Non-EU/EEA
+3/16/20,Uruguay,2,0,UY,,Non-EU/EEA
 3/15/20,Uruguay,6,0,UY,,Non-EU/EEA
+3/16/20,Uzbekistan,6,0,UZ,,Non-EU/EEA
+3/16/20,Venezuela,5,0,VE,,Non-EU/EEA
 3/15/20,Venezuela,10,0,VE,,Non-EU/EEA
+3/16/20,Vietnam,4,0,VN,,Non-EU/EEA
 3/15/20,Vietnam,4,0,VN,,Non-EU/EEA
 3/14/20,Vietnam,5,0,VN,,Non-EU/EEA
 3/13/20,Vietnam,5,0,VN,,Non-EU/EEA
